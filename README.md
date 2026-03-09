@@ -7,7 +7,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase_pgvector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
 
-> **Live Demo:** [https://pukpuk-chatbotrag.vercel.app](https://pukpuk-chatbotrag.vercel.app) *(Replace with your actual Vercel link)*
+> **Live Demo:** [https://puk-puk-chatbot-rag.vercel.app](https://puk-puk-chatbot-rag.vercel.app) 
 
 ## 📖 About The Project
 
