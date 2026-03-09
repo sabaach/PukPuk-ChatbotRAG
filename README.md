@@ -80,25 +80,25 @@ Follow these instructions to set up the project locally on your machine.
     npm install
 
 3. **Set up Environment Variables:**
-Create a .env.local file in the root directory and add the following variables:
+    Create a .env.local file in the root directory and add the following variables:
 
-GOOGLE_GENERATIVE_AI_API_KEY=your_gemini_api_key_here
-SUPABASE_URL=your_supabase_project_url_here
-SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key_here
+    GOOGLE_GENERATIVE_AI_API_KEY=your_gemini_api_key_here
+    SUPABASE_URL=your_supabase_project_url_here
+    SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key_here
 
 4. **Seed the Database (Optional but recommended for RAG):**
-If you haven't populated your Supabase vector database with Stoic data, run the seeding script:
+    If you haven't populated your Supabase vector database with Stoic data, run the seeding script:
 
-node scripts/seed_database.js
+    node scripts/seed_database.js
 
 
 5. **Run the development server:**
    
-npm run dev
+    npm run dev
 
 
 6. **Open the app:**
-Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) with your browser to interact with PukPuk.
+    Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) with your browser to interact with PukPuk.
 
 ---
 
